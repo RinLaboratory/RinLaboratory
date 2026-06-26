@@ -6,7 +6,7 @@
 ## 🌟 Sobre mí
 Construyo proyectos que proporcionan experiencias únicas guiándonos a un mundo mejor.
 
-Soy un desarrollador de software con más de 3 años de experiencia, entusiasta de la ciberseguridad y de las plataformas web
+Soy un desarrollador de software con más de 4 años de experiencia, entusiasta de la ciberseguridad y de las plataformas web
 
 Estoy siempre en busca de nuevas oportunidades para contribuir a proyectos desafiantes en el campo del desarrollo de software y la ingeniería informática 
 
